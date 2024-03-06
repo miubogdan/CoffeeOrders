@@ -10,7 +10,7 @@ In this project I’m gathering the data, transform it then use pivot tables and
 -	Total sales over time line chart by the type of coffee
 -	Filtering by roast type, size and loyalty card
 
-## Cleaning techniques used
+## Preparation techniques used
 -	Populating the columns from different tables using vlookups/xlookups
 -	Using INDEX MATCH to gather the product data
 -	Using IF to modify abbreviated names into full names (Ara, Rob to Arabica, Robusta)
